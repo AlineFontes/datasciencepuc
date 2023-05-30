@@ -1,1 +1,1 @@
-# datasciencepuc
+# Data Science PUC Minas
